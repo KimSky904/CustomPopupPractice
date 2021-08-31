@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CustomPopupPractice">
-        <activity android:name=".TransparentScrollPopup"></activity>
+        <activity android:name=".TransScrollPopup.TransparentScrollPopupActivity"></activity>
         <activity android:name=".BasicAlertPopup" />
         <activity android:name=".MainActivity">
             <intent-filter>
