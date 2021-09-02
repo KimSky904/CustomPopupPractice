@@ -1,4 +1,4 @@
-package com.example.custompopuppractice.TransScrollPopup;
+package com.example.custompopuppractice.ScrollPopup;
 
 import android.content.Context;
 import android.view.LayoutInflater;
